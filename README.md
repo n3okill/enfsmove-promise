@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/n3okill/enfsmove-promise.svg)](https://travis-ci.org/n3okill/enfsmove-promise)
-[![Build status](https://ci.appveyor.com/api/projects/status/7sa7do8hf79c4j5d?svg=true)](https://ci.appveyor.com/project/n3okill/enfsmove-promise)
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/8721ee3980094b75913805efc931bff4)](https://www.codacy.com/app/n3okill/enfsmove-promise)
+[![AppVeyor status](https://ci.appveyor.com/api/projects/status/7xg7sskffp2w49bc?svg=true)](https://ci.appveyor.com/project/n3okill/enfsmove-promise)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f35b96facc764831999fb8fe30c8dafd)](https://www.codacy.com/app/n3okill/enfsmove-promise)
 [![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=64PYTCDH5UNZ6)
 
 [![NPM](https://nodei.co/npm/enfsmove-promise.png)](https://nodei.co/npm/enfsmove-promise/)
