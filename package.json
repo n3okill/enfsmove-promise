@@ -1,6 +1,6 @@
 {
   "name": "enfsmove-promise",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "move files and directories in the file system for node with promises",
   "license": "CC-BY-4.0",
   "author": {
@@ -34,9 +34,9 @@
     "eslint-plugin-mocha": "^4.9",
     "mocha": "^3.2",
     "should": "^11.2",
-    "enfsmkdirp":"^1.0",
-    "enfscopy":"^1.0",
-    "rimraf":"^2.6"
+    "enfsmkdirp": "^1.0",
+    "enfscopy": "^1.0",
+    "rimraf": "^2.6"
   },
   "keywords": [
     "create",
