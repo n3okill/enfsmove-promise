@@ -1,0 +1,50 @@
+{
+  "name": "enfsmove-promise",
+  "version": "0.1.0",
+  "description": "move files and directories in the file system for node with promises",
+  "license": "CC-BY-4.0",
+  "author": {
+    "name": "Joao Parreira",
+    "email": "joaofrparreira@gmail.com"
+  },
+  "homepage": "https://github.com/n3okill/enfsmove-promise",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/n3okill/enfsmove-promise.git"
+  },
+  "bugs": {
+    "url": "https://github.com/n3okill/enfsmove-promise/issues"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "enfsmove": "^1.0"
+  },
+  "scripts": {
+    "test": "make test",
+    "appveyor": "node ./node_modules/mocha/bin/mocha --reporter spec --require should test/*.js"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-plugin-mocha": "^4.9.0",
+    "mocha": "^3.2.0",
+    "should": "^11.2.1",
+    "enfsmkdirp":"^1.0",
+    "enfscopy":"^1.0"
+  },
+  "keywords": [
+    "create",
+    "directory",
+    "fs",
+    "file",
+    "file system",
+    "move",
+    "recursive",
+    "remove"
+  ]
+}
